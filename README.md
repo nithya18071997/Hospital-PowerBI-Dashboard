@@ -31,8 +31,19 @@ hospital operations, and performance metrics.
 
 ---
 
+##  Business Insights
+
+- Identified peak patient visit periods to optimize staffing and reduce wait times  
+- Analyzed department-wise workload to improve resource allocation  
+- Tracked appointment trends for better scheduling and planning  
+- Evaluated patient satisfaction to identify service improvement areas  
+- Compared revenue across departments to highlight high and low performers  
+- Provided actionable insights to enhance hospital operational efficiency
+
+---
+
 ##  Dashboard Preview
-![Dashboard](Hospital Power BI Project.png)
+[Dashboard](Hospital Power BI Project.png)
 
 ---
 
